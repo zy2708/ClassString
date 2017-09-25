@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"ClassString"},{"p":"<Unnamed>","l":"StringBufferDemo"}]
